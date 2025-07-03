@@ -2,7 +2,7 @@ package jalon;
 
 import java.util.Scanner;
 
-public class hypocamp {
+public class mainhypocamp {
     
         static Scanner scanner = new Scanner(System.in);
 
